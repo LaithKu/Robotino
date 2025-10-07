@@ -31,7 +31,7 @@ Unterstützt werden mehrere Robotinos gleichzeitig. Die Kommunikation läuft dab
 
 ### Anwendung
 
-1. Falls notwendig: Robotino-Softwareupdate durchführen (siehe (https://wiki.openrobotino.org/Robotino3_usb_restore.html)).  
+1. Falls notwendig: Robotino-Softwareupdate durchführen (siehe (https://wiki.openrobotino.org/Robotino3_usb_restore.html). Um den USB-Stick boot-fähig zu machen rufus verwenden (siehe (https://rufus.ie/de/)).  
 2. Robotino konfigurieren: Monitor anschließen und im Webinterface (`127.0.0.1`) Netzwerkeinstellungen anpassen.  
 3. Mit **RobotinoFactory** eine Karte der Umgebung erstellen und Posen, Sperrzonen sowie Wege definieren.  
 4. Netzwerkverbindung zwischen Robotino, SPS und externem Rechner herstellen.  
