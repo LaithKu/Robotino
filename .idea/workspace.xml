@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbaa2ef8-5c50-46aa-b3bf-1a8e40cd1c60" name="Changes" comment="code reformated">
+      <change beforePath="$PROJECT_DIR$/Docking/Docking Layout Robotino OUT Station IN.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Docking/Docking Layout Robotino OUT Station IN.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2zrEd2rJd4coct7OWorZykoIfZk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/laith/Documents/GitHub/Robotino&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Robotino" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RobotinoAPI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RobotinoAPI/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Robotino" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ServerClient" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ServerClient/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="OPCUA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\laith\anaconda3\envs\RobotinoAPI\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OPCUA" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\laith\Documents\GitHub\Robotino\OPCUA\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbaa2ef8-5c50-46aa-b3bf-1a8e40cd1c60" name="Changes" comment="" />
+      <created>1752480875727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752480875727</updated>
+    </task>
+    <task id="LOCAL-00001" summary="get and put with no solid exception handling">
+      <created>1752482038190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752482038190</updated>
+    </task>
+    <task id="LOCAL-00002" summary="get and put with better exception handling">
+      <created>1752483855438</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752483855438</updated>
+    </task>
+    <task id="LOCAL-00003" summary="get and put completed">
+      <created>1752487719927</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752487719927</updated>
+    </task>
+    <task id="LOCAL-00004" summary="get and put completed">
+      <created>1752494917974</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752494917974</updated>
+    </task>
+    <task id="LOCAL-00005" summary="opcua test read">
+      <created>1752500079899</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752500079899</updated>
+    </task>
+    <task id="LOCAL-00006" summary="opcua test read write">
+      <created>1752500515072</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752500515072</updated>
+    </task>
+    <task id="LOCAL-00007" summary="opcua test read write">
+      <created>1752567956804</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752567956804</updated>
+    </task>
+    <task id="LOCAL-00008" summary="opcua test read write for arrays">
+      <created>1752571015766</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1752571015766</updated>
+    </task>
+    <task id="LOCAL-00009" summary="bevor merging">
+      <created>1752585829377</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1752585829377</updated>
+    </task>
+    <task id="LOCAL-00010" summary="merging successful">
+      <created>1752586481938</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1752586481938</updated>
+    </task>
+    <task id="LOCAL-00011" summary="additional opc ua functions">
+      <created>1752664733269</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1752664733269</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Write Data from Robotino to PLC">
+      <created>1752667992175</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1752667992175</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Write Data from PLC to Robotino">
+      <created>1752670513676</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1752670513676</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Write Data from PLC to Robotino">
+      <created>1753175421435</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1753175421435</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Start/tStop RobotinoView Programs">
+      <created>1753178267959</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1753178267959</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Start/tStop RobotinoView Programs v2">
+      <created>1753178911501</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1753178911501</updated>
+    </task>
+    <task id="LOCAL-00017" summary="read from robotinoview">
+      <created>1753189608827</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1753189608827</updated>
+    </task>
+    <task id="LOCAL-00018" summary="navigation communication">
+      <created>1753272382889</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1753272382889</updated>
+    </task>
+    <task id="LOCAL-00019" summary="State before implementing threading">
+      <created>1755169184611</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1755169184611</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Threading for outputmotor4 completed">
+      <created>1755174103928</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1755174103928</updated>
+    </task>
+    <task id="LOCAL-00021" summary="added to communication PLC to View">
+      <created>1755243523496</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1755243523496</updated>
+    </task>
+    <task id="LOCAL-00022" summary="added to communication PLC to View">
+      <created>1755250053518</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1755250053518</updated>
+    </task>
+    <task id="LOCAL-00023" summary="code reformated">
+      <created>1758632142728</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1758632142728</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="get and put with no solid exception handling" />
+    <MESSAGE value="get and put with better exception handling" />
+    <MESSAGE value="get and put completed" />
+    <MESSAGE value="opcua test read" />
+    <MESSAGE value="opcua test read write" />
+    <MESSAGE value="opcua test read write for arrays" />
+    <MESSAGE value="bevor merging" />
+    <MESSAGE value="merging successful" />
+    <MESSAGE value="additional opc ua functions" />
+    <MESSAGE value="Write Data from Robotino to PLC" />
+    <MESSAGE value="Write Data from PLC to Robotino" />
+    <MESSAGE value="Start/tStop RobotinoView Programs" />
+    <MESSAGE value="Start/tStop RobotinoView Programs v2" />
+    <MESSAGE value="read from robotinoview" />
+    <MESSAGE value="navigation communication" />
+    <MESSAGE value="State before implementing threading" />
+    <MESSAGE value="Threading for outputmotor4 completed" />
+    <MESSAGE value="added to communication PLC to View" />
+    <MESSAGE value="code reformated" />
+    <option name="LAST_COMMIT_MESSAGE" value="code reformated" />
+  </component>
+</project>
